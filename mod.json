@@ -1,0 +1,17 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "Super Monke",
+    "id": "Supermonke",
+    "author": "Texint",
+    "version": "0.1.0",
+    "packageId": "com.AnotherAxiom.GorillaTag",
+    "packageVersion": "1.0.8",
+    "description": "IDFK you're super",
+    "modFiles": [
+        "libtestmod.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_1_3_5.so"
+    ]
+}
